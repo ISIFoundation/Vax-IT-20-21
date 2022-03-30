@@ -9,10 +9,10 @@ This file contains all the useful resources created or used for the article titl
 
 ### 1. Datasets:
 Including:
-* the time-specific edgelists for the retweet networks construction;
-* the ids of the tweets that form the dataset;
-* the result of the user manual annotation performed on a given sample of users;
-* the time-specific community to which the users belong.
+* the time-specific edgelists for the retweet networks construction (example_edgelist.csv);
+* an example of the tweets that form the dataset (tweets_example.csv);
+* the result of the user manual annotation performed on a given sample of users (user_manual_label.csv);
+* the time-specific community to which the users belong (users_community_timewindow.csv).
 
 ### 2. Notebooks:
 Including:
